@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning much everyday
 - 🌱 I’m currently studying and working; i wanna learn phyton
 
+Connect with me here: https://www.linkedin.com/in/fabio-piacentini-056a1b16a/
+
 
 Javascript React.js Node.js Express.js
 
